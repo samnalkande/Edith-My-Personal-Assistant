@@ -8,12 +8,12 @@ and answers quries you fitted in it.
 this recognises our voice and react according to funtions fitted in it.
 You can develop it according to need and wish.
 
-packages you need to install :
+# packages you need to install :
 1)pip install pyttx3
 2)pip install speechRecognition
 3)pip install wikipedia
 
-Modules imported:
+# Modules imported:
 1)import pyttsx3
 2)import speech_recognition as sr
 3)import datetime
