@@ -1,7 +1,7 @@
-import pyttsx3 #in your terminal type pip install pyttsx3
-import speech_recognition as sr #in your terminal type pip install speechRecognition
+import pyttsx3 #pip install pyttsx3
+import speech_recognition as sr #pip install speechRecognition
 import datetime
-import wikipedia #in your terminal type pip install wikipedia
+import wikipedia #pip install wikipedia
 import webbrowser
 import os
 import smtplib
@@ -133,8 +133,6 @@ if __name__ == "__main__":
         elif 'how can you help me' in query:
             speak("I can sed email! , I can open google , youtube , stackoverflow , and search wikipedia for you")
             
-        elif 'where do you live' in query:   
-            speak("In your device")
         
         else:
             quit
