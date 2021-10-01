@@ -1,8 +1,8 @@
 # Edith-My-Personal-Assistant
 
-this is created as a Desktop assistant which will help us to search wikipedia,
+This is created as a Desktop assistant which will help you to search wikipedia,
 open google, open youtube, stackover flow you may add various other webbrowsers you wish to open
-this also tells us time , wish us according to time after starting, it sends emails,
+this also tells us time , wish us according to time after starting, sends emails,
 and answers quries you fitted in it.
 
 this recognises our voice and react according to funtions fitted in it.
